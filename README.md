@@ -1,7 +1,12 @@
-- 👋 Hi, I’m @nickmerah
-- 👀 I’m interested in Software Engineering and Development
-- 🌱 I’m currently learning Machine Learning and AWS
-- 💞️ I’m looking to collaborate on Data Science
+👋 Hi, I’m Nicholas Esene (@nickmerah) — a PHP Backend Engineer with 10+ years of experience building scalable backend systems with Laravel, Symfony, and modern web technologies.
+
+💻 I specialize in RESTful APIs, CI/CD pipelines, Dockerized deployments, and MySQL/PostgreSQL optimization.
+
+🔧 Tech Stack: PHP • Laravel • Symfony • MySQL • PostgreSQL • Docker • AWS • TDD • DDD • React (admin dashboards)
+
+🚀 Notable: Built revenue platforms generating ₦1B+ annually, enhanced security operations, and mentored dev teams across Nigeria and remote roles.
+
+📫 Let’s collaborate on Laravel/Symfony backend systems, API design, or backend architecture challenges!
 
 <!---
 nickmerah/nickmerah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
