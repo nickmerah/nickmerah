@@ -1,8 +1,8 @@
-👋 Hi, I’m Nicholas Esene (@nickmerah) — a FullStack Engineer with 10+ years of experience building scalable backend systems with Laravel, Symfony, Python and modern web technologies.
+👋 Hi, I’m Nicholas Esene (@nickmerah) — a FullStack Engineer with 10+ years of experience building scalable backend systems with Laravel, Symfony and modern web technologies.
 
 💻 I specialize in RESTful APIs, CI/CD pipelines, Dockerized deployments, and MySQL/PostgreSQL optimization.
 
-🔧 Tech Stack: PHP • Laravel • Symfony • Python • FASTAPI • MySQL • PostgreSQL • Docker • AWS • TDD • DDD • React (admin dashboards)
+🔧 Tech Stack: PHP • Laravel • Symfony • MySQL • PostgreSQL • Docker • AWS • TDD • DDD • React (admin dashboards)
 
 🚀 Notable: Built revenue platforms generating ₦1B+ annually, enhanced security operations, and mentored dev teams across Nigeria and remote roles.
 
